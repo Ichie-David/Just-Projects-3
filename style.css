@@ -1,10 +1,24 @@
+*{
+    background-color: rgb(101, 101, 253);
+    color: azure;
+}
 img{
     border-radius: 50%;
 }
+
+main{
+    width: 80%;
+    font-size: 18px;
+}
+
 button{
-    background-color: black;
-    text-align: center;
-    font-size: 16px;
-    padding: 15px 32px;
-    display: inline-block;
+    padding: 1.5rem;
+    background-color: azure;
+}
+a{
+    text-decoration: none;
+    background-color: azure;
+    color: blue;
+    font-family: 'Macondo', cursive;
+    font-size: 20px;
 }
