@@ -1,24 +1,25 @@
 *{
     background-color: rgb(101, 101, 253);
     color: azure;
+    margin-left: 10px;
 }
 img{
     border-radius: 50%;
 }
 
 main{
-    width: 80%;
+    width: 45%;
     font-size: 18px;
 }
 
 button{
-    padding: 1.5rem;
+    padding: 20px 14px;
     background-color: azure;
+    border-radius: 18px;
 }
 a{
     text-decoration: none;
     background-color: azure;
     color: blue;
-    font-family: 'Macondo', cursive;
-    font-size: 20px;
+    font-size: 16px;
 }
