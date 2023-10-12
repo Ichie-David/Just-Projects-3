@@ -1,25 +1,62 @@
 *{
-    background-color: rgb(101, 101, 253);
-    color: azure;
-    margin-left: 10px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+
+.design{
+    background-color: blue;
+    width: 40%;
+    padding: 1rem 1rem 3rem;
+}
+
+
+.img-container{
+    margin-bottom: 1.5rem;
+}
+
+
 img{
     border-radius: 50%;
+    width: 30%;
 }
 
-main{
-    width: 45%;
-    font-size: 18px;
+
+h2{
+    font-weight: 700px;
+    font-size: 24px;
+    margin-bottom: 4px;
 }
 
-button{
-    padding: 20px 14px;
-    background-color: azure;
-    border-radius: 18px;
+
+.mail{
+    font-size: 15px;
 }
-a{
-    text-decoration: none;
+
+
+h3{
+    font-weight: 700px;
+    font-size: 36px;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+
+.push{
+    margin-left: 30px;
+    margin-bottom: 2.5rem;
+}
+
+
+a {
+    font-weight: 500px;
     background-color: azure;
     color: blue;
-    font-size: 16px;
+    padding: 20px 14px;
+    border-radius: 26px;
 }
